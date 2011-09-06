@@ -1,3 +1,13 @@
+/*
+	jQuery KeyNavigation Plugin 
+	
+	Author:
+	Johannes Freund / jofreund@me.com
+	
+	URL:
+	https://github.com/jofreund/jfkeynav
+	
+*/
 (function( $ ){
     
 		var methods = {
