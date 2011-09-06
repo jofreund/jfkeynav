@@ -1,0 +1,16 @@
+jQuery KeyNavigation Plugin
+
+jQuery Plugin for horizontal keyboard-navigation.
+
+
+Setup:
+
+init
+
+$(document).jfkeynav({ 'position' : '#yourstartid' });
+
+
+html
+
+in order to mark up the tags you want to navigate, add
+the class .keynav to the corresponding tags. 
