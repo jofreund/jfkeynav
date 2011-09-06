@@ -13,4 +13,5 @@ $(document).jfkeynav({ 'position' : '#yourstartid' });
 html
 
 in order to mark up the tags you want to navigate, add
-the class .keynav to the corresponding tags. 
+the class .keynav to the corresponding tags.
+Additionally, each tag has to be marked up with a specific #id.
